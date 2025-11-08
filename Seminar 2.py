@@ -266,5 +266,4 @@ def task20():
     else:
         print(False)
 
-task20()
 
