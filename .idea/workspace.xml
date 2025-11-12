@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3b865e3e-b432-4105-b06e-c145888408b2" name="Changes" comment="first">
-      <change afterPath="$PROJECT_DIR$/HW_2.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lection5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seminar5.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HW_2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HW_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/HW_3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seminar 2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Seminar 2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +58,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-1f77c24022e5-d902c0275401-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-252.26830.99" />
+        <option value="bundled-python-sdk-f69e5c277ee4-cbfc7b97e6b2-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-252.27397.106" />
       </set>
     </attachedChunks>
   </component>
