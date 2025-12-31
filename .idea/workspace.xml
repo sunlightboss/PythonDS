@@ -5,10 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3b865e3e-b432-4105-b06e-c145888408b2" name="Changes" comment="first">
-      <change afterPath="$PROJECT_DIR$/lection5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nov10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seminar5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oophomework.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apartments.py" beforeDir="false" afterPath="$PROJECT_DIR$/apartments.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classseminar.py" beforeDir="false" afterPath="$PROJECT_DIR$/classseminar.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dictseminar.py" beforeDir="false" afterPath="$PROJECT_DIR$/dictseminar.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fileseminar.py" beforeDir="false" afterPath="$PROJECT_DIR$/fileseminar.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/footballparsing.py" beforeDir="false" afterPath="$PROJECT_DIR$/footballparsing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/funcseminar.py" beforeDir="false" afterPath="$PROJECT_DIR$/funcseminar.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nov12.py" beforeDir="false" afterPath="$PROJECT_DIR$/nov12.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ooplesson3.py" beforeDir="false" afterPath="$PROJECT_DIR$/ooplesson3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oopseminar.py" beforeDir="false" afterPath="$PROJECT_DIR$/oopseminar.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/parsinghomework.py" beforeDir="false" afterPath="$PROJECT_DIR$/parsinghomework.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seminar6.py" beforeDir="false" afterPath="$PROJECT_DIR$/seminar6.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,16 +54,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.apartments.executor": "Run",
+    "Python.classseminar.executor": "Run",
+    "Python.footballparsing.executor": "Run",
+    "Python.nov12.executor": "Run",
+    "Python.ooplesson3.executor": "Run",
+    "Python.oopseminar.executor": "Run",
+    "Python.parsinghomework.executor": "Run",
+    "Python.parsingseminar.executor": "Run",
+    "Python.recursseminar.executor": "Run",
+    "Python.seminar6.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/home/nursss/PycharmProjects/voluntrack111",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -92,5 +112,16 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first" />
     <option name="LAST_COMMIT_MESSAGE" value="first" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/apartments.py</url>
+          <line>31</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

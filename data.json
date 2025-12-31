@@ -1,0 +1,24 @@
+[
+    {
+        "name": "Aidana",
+        "age": 19,
+        "city": "Bishkek",
+        "skills": [
+            "Python",
+            "Machine Learning",
+            "Data Science"
+        ]
+    }
+],
+[
+    {
+        "name": "Aidana",
+        "age": 19,
+        "city": "Bishkek",
+        "skills": [
+            "Python",
+            "Machine Learning",
+            "Data Science"
+        ]
+    }
+]
