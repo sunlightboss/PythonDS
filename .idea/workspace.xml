@@ -5,10 +5,43 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3b865e3e-b432-4105-b06e-c145888408b2" name="Changes" comment="first">
+      <change afterPath="$PROJECT_DIR$/HW/HW5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW/HW_6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW/HW_7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW/HW_8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/numpy/16feb.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/numpy/HW_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sql/sultan1.sql" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP2HW.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOP2HW.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pandashw.py" beforeDir="false" afterPath="$PROJECT_DIR$/pandashw.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/28.10.py" beforeDir="false" afterPath="$PROJECT_DIR$/seminars/28.10.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/29.10.py" beforeDir="false" afterPath="$PROJECT_DIR$/seminars/29.10.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/HW/HW_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW_2.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/HW/HW_2.1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/HW/HW_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/HW/HW_4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP2HW.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/OOP2HW.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seminar 2.py" beforeDir="false" afterPath="$PROJECT_DIR$/seminars/Seminar 2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apartments.py" beforeDir="false" afterPath="$PROJECT_DIR$/parsing/apartments.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classseminar.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/classseminar.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datalesson1.py" beforeDir="false" afterPath="$PROJECT_DIR$/pandas/datalesson1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dictseminar.py" beforeDir="false" afterPath="$PROJECT_DIR$/seminars/dictseminar.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fileseminar.py" beforeDir="false" afterPath="$PROJECT_DIR$/seminars/fileseminar.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/footballparsing.py" beforeDir="false" afterPath="$PROJECT_DIR$/parsing/footballparsing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/funcseminar.py" beforeDir="false" afterPath="$PROJECT_DIR$/seminars/funcseminar.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lection5.py" beforeDir="false" afterPath="$PROJECT_DIR$/seminars/lection5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nov10.py" beforeDir="false" afterPath="$PROJECT_DIR$/seminars/nov10.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nov12.py" beforeDir="false" afterPath="$PROJECT_DIR$/seminars/nov12.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oophomework.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/oophomework.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ooplesson3.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/ooplesson3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oopseminar.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/oopseminar.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pandashw.py" beforeDir="false" afterPath="$PROJECT_DIR$/pandas/pandashw.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/parsinghomework.py" beforeDir="false" afterPath="$PROJECT_DIR$/parsing/parsinghomework.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/parsingseminar.py" beforeDir="false" afterPath="$PROJECT_DIR$/seminars/parsingseminar.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/practice.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recursseminar.py" beforeDir="false" afterPath="$PROJECT_DIR$/seminars/recursseminar.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seminar3.py" beforeDir="false" afterPath="$PROJECT_DIR$/seminars/seminar3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seminar5.py" beforeDir="false" afterPath="$PROJECT_DIR$/seminars/seminar5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seminar6.py" beforeDir="false" afterPath="$PROJECT_DIR$/seminars/seminar6.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,36 +78,46 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.apartments.executor&quot;: &quot;Run&quot;,
-    &quot;Python.classseminar.executor&quot;: &quot;Run&quot;,
-    &quot;Python.datalesson1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.footballparsing.executor&quot;: &quot;Run&quot;,
-    &quot;Python.interparser.executor&quot;: &quot;Run&quot;,
-    &quot;Python.nov12.executor&quot;: &quot;Run&quot;,
-    &quot;Python.oophomework.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ooplesson3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.oopseminar.executor&quot;: &quot;Run&quot;,
-    &quot;Python.pandashw.executor&quot;: &quot;Run&quot;,
-    &quot;Python.parsinghomework.executor&quot;: &quot;Run&quot;,
-    &quot;Python.parsingseminar.executor&quot;: &quot;Run&quot;,
-    &quot;Python.practice.executor&quot;: &quot;Run&quot;,
-    &quot;Python.recursseminar.executor&quot;: &quot;Run&quot;,
-    &quot;Python.seminar6.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/nursss/PycharmProjects/voluntrack111&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.apartments.executor": "Run",
+    "Python.classseminar.executor": "Run",
+    "Python.datalesson1.executor": "Run",
+    "Python.footballparsing.executor": "Run",
+    "Python.interparser.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.nov12.executor": "Run",
+    "Python.oophomework.executor": "Run",
+    "Python.ooplesson3.executor": "Run",
+    "Python.oopseminar.executor": "Run",
+    "Python.pandashw.executor": "Run",
+    "Python.parsinghomework.executor": "Run",
+    "Python.parsingseminar.executor": "Run",
+    "Python.practice.executor": "Run",
+    "Python.recursseminar.executor": "Run",
+    "Python.seminar6.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/home/nursss/PycharmProjects/voluntrack111",
+    "settings.editor.selected.configurable": "configurable.group.tools"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/OOP" />
+      <recent name="$PROJECT_DIR$/\" />
+      <recent name="$PROJECT_DIR$/parsing" />
+      <recent name="$PROJECT_DIR$/HW" />
+      <recent name="$PROJECT_DIR$/pandas" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-f69e5c277ee4-cbfc7b97e6b2-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-252.27397.106" />
+        <option value="bundled-python-sdk-4762d8aabb82-6d6dccd035ac-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-253.30387.173" />
       </set>
     </attachedChunks>
   </component>
@@ -113,7 +156,7 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/apartments.py</url>
+          <url>file://$PROJECT_DIR$/parsing/apartments.py</url>
           <line>31</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>

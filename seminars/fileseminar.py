@@ -1,9 +1,9 @@
 import json
 
-with open('file.txt', 'w') as f:
+with open('../file.txt', 'w') as f:
     f.write('Hello ')
 
-with open('file.txt', 'a') as f:
+with open('../file.txt', 'a') as f:
     f.write('My friend')
 
 data = [{
@@ -14,5 +14,5 @@ data = [{
 }]
 
 # Creating a JSON file
-with open('data.json', 'a') as json_file:
+with open('../data.json', 'a') as json_file:
     json.dump(data, json_file, indent=4)

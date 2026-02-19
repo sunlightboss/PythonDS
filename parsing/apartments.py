@@ -39,7 +39,6 @@ def get_urls(url, start_page=1, stop_page=5):
 
 url_house_kg = 'https://www.house.kg/kupit?page='
 list_ = get_urls(url_house_kg)
-list_
 
 
 

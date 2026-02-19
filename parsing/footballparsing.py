@@ -3,7 +3,6 @@ import requests
 
 url = "https://raw.githubusercontent.com/statsbomb/open-data/master/data/competitions.json"
 competitions = requests.get(url).json()
-
 for comp in competitions:
     print(comp["competition_name"], comp["season_name"], comp["season_id"])
 

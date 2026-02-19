@@ -79,5 +79,4 @@ class InstallmentApp(Application):
 
     def summary(self):
         base = super().summary()
-        return f'{base}, shop = {self.shop_name}'
 

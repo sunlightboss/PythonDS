@@ -35,7 +35,6 @@ def task():
 def task7():
     list_ = [3, 5, 4, 6, 5, 3, 12, 13, 14, 35, 46, 57, 46, 35]
     stat = {}
-    stat['count'] = len(list_)
     stat['min'] = min(list_)
     stat['mean'] = sum(list_)/len(list_)
     stat['max'] = max(list_)
